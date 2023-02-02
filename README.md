@@ -110,7 +110,7 @@ Like My Work?
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/uday4612/TheNodeCourse?style=flat-square"/></td> 
       </tr>
       <tr>
-	      <td><a href="https://github.com/uday4612/uday4612"><b>🤓 iampavangandhi</b></a></td>
+	      <td><a href="https://github.com/uday4612/uday4612"><b>🤓 uday4612</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/uday4612/uday4612?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/uday4612/uday4612?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/uday4612/uday4612?style=flat-square"/></td>
